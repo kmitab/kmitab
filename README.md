@@ -20,7 +20,6 @@ My interests include:
 - Java
 - Python
 - GNU/Linux, bash
+- SQL
 
-Recently, I've been exploring web development through my first Angular project. You can check it out [here](https://github.com/kmitab/movie-goblin).
-
-My [gists](https://gist.github.com/kmitab) are also available.
+My gists are available [here](https://gist.github.com/kmitab).
