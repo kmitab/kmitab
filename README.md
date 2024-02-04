@@ -14,12 +14,3 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my personal github page.
-
-My interests include:
-
-- Java
-- Python
-- GNU/Linux, bash
-- SQL
-
-My gists are available [here](https://gist.github.com/kmitab).
